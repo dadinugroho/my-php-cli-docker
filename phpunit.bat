@@ -1,0 +1,1 @@
+docker-compose.exe run --rm php vendor/bin/phpunit --debug %1

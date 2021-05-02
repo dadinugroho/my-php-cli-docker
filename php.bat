@@ -1,0 +1,1 @@
+docker-compose.exe run --rm php php %1
